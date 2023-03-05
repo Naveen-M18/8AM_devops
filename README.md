@@ -1,2 +1,1 @@
-# 8AM_devops
-For Practise
+Repo created
